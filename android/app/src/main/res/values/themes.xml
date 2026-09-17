@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.EBYFIT" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ebyfit_bg</item>
+        <item name="android:statusBarColor">@color/ebyfit_bg</item>
+        <item name="android:navigationBarColor">@color/ebyfit_bg</item>
+    </style>
+</resources>

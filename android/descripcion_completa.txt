@@ -1,0 +1,28 @@
+EBYFIT - Tu Compañero Integral de Fitness y Bienestar
+
+EBYFIT es una aplicación avanzada diseñada para ayudarte a alcanzar tus objetivos de salud y rendimiento físico de manera organizada y eficiente. Desarrollada por Ebyzom, la plataforma combina tecnología moderna con las necesidades reales de los entusiastas del fitness y atletas.
+
+CARACTERÍSTICAS PRINCIPALES:
+
+1. GESTIÓN DE ENTRENAMIENTOS:
+Accede a un catálogo completo de rutinas y ejercicios (GymCatalog y WorkoutCatalog). Ya sea que entrenes en el gimnasio o en casa, EBYFIT te proporciona la estructura necesaria para maximizar tus resultados.
+
+2. SEGUIMIENTO DE PROGRESO:
+Mantén un registro detallado de tu evolución física. La app permite registrar entradas de peso (Weight Tracking) y visualizar tu historial para identificar tendencias y ajustar tus planes de entrenamiento.
+
+3. CHECK-IN DIARIO Y BIENESTAR:
+Entiende la conexión entre tu mente y tu cuerpo. A través de la función de Check-in, puedes registrar tu estado de ánimo (Energía alta, Bien, Cansado, Necesito recuperar) y niveles de energía diarios, permitiéndote adaptar la intensidad de tus sesiones según cómo te sientas.
+
+4. SINCRONIZACIÓN EN LA NUBE:
+Tus datos están siempre seguros y accesibles. Gracias a la integración con Firebase, EBYFIT ofrece un sistema de autenticación robusto y sincronización automática en la nube (CloudSync), asegurando que tu progreso esté disponible en cualquier dispositivo.
+
+5. SERVICIOS DE GIMNASIO Y CLASES:
+EBYFIT va más allá de un simple diario de entrenamiento. Incluye funciones específicas para interactuar con centros deportivos, como el registro en clases y sistemas de check-in rápido para el acceso a instalaciones.
+
+6. HERRAMIENTAS DE CÁLCULO FITNESS:
+Optimiza tu nutrición y entrenamiento con calculadoras integradas que te ayudan a determinar métricas clave para tu desarrollo físico.
+
+7. INTERFAZ MODERNA Y FLUIDA:
+Construida con las últimas tecnologías de Android (Jetpack Compose), la aplicación ofrece una experiencia de usuario intuitiva, rápida y visualmente atractiva, adaptada a los estándares de diseño actuales.
+
+EBYFIT es la herramienta definitiva para quienes buscan transformar su estilo de vida, ofreciendo el equilibrio perfecto entre disciplina, seguimiento y tecnología. ¡Empieza hoy tu camino hacia una mejor versión de ti mismo!

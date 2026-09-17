@@ -1,0 +1,26 @@
+INSTRUCCIONES PARA LA REVISIÓN DE LA APP (PLAY CONSOLE)
+
+Para que el equipo de revisión de Google Play pueda probar todas las funcionalidades de EBYFIT (acceso a rutinas, historial, check-ins, etc.), se han habilitado las siguientes credenciales de prueba:
+
+[CREDENCIALES DE ACCESO]
+- Correo electrónico: demo@ebyfit.com
+- Contraseña: 123456
+
+[PASOS PARA LA REVISIÓN]
+1. Iniciar la aplicación.
+2. En la pantalla de Login, ingresar el correo y contraseña proporcionados.
+3. Una vez dentro, podrá navegar por:
+   - Pantalla de Inicio (Resumen).
+   - Planes y Rutinas de Entrenamiento.
+   - Historial de progreso y peso.
+   - Registro de bienestar diario (Check-in).
+   - Perfil de usuario.
+
+[NOTAS ADICIONALES]
+- La aplicación utiliza Firebase para la sincronización en tiempo real.
+- Las funciones de red están activas para validar el flujo de datos y autenticación.
+- Si se requiere probar la eliminación de datos, el usuario demo tiene permisos para ejecutar esta acción desde la pantalla de perfil.
+
+Gracias por su tiempo en la revisión de EBYFIT.
+Atentamente,
+Equipo de Desarrollo EBYZOM E.I.R.L.

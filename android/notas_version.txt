@@ -1,0 +1,29 @@
+NOTAS DE LA VERSIÓN - EBYFIT
+
+Versión: 1.0 (Build 1)
+Fecha: Septiembre 2026
+Estado: Lanzamiento Inicial (MVP)
+
+¡Bienvenidos a la primera versión de EBYFIT! En esta actualización sentamos las bases para tu transformación física con las siguientes funcionalidades principales:
+
+[NUEVAS FUNCIONALIDADES]
+- Autenticación Segura: Inicio de sesión y registro mediante Firebase Auth.
+- Gestión de Rutinas: Acceso a catálogos detallados de ejercicios y rutinas de entrenamiento.
+- Seguimiento de Progreso: Registro de peso corporal y visualización de historial.
+- Check-in de Bienestar: Registro diario de estado de ánimo y niveles de energía con emojis descriptivos.
+- Sincronización en la Nube: Tus datos se guardan automáticamente y se sincronizan entre dispositivos usando Firestore.
+- Clases y Gimnasios: Sistema integrado para ver y registrarte en clases dirigidas.
+- Interfaz Moderna: Experiencia de usuario fluida desarrollada íntegramente con Jetpack Compose y Material 3.
+
+[OPTIMIZACIONES]
+- Soporte para modo claro y oscuro.
+- Integración de anuncios AdMob no intrusivos.
+- Cálculos de métricas fitness optimizados.
+- Almacenamiento local mediante DataStore para configuraciones rápidas.
+
+[PRÓXIMAMENTE]
+- Gráficos avanzados de rendimiento.
+- Planes nutricionales personalizados.
+- Comunidad y retos sociales.
+
+Gracias por elegir EBYFIT para acompañarte en tu viaje hacia una vida más saludable.

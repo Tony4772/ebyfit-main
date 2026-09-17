@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257149734881",
+    "project_id": "ebyfit-gym-app",
+    "storage_bucket": "ebyfit-gym-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257149734881:android:3326a14aea4d28caf54ca0",
+        "android_client_info": {
+          "package_name": "com.ebyzom.ebyfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG0Rl-YuqkL_XCjZz9H5jpK-ZaaJC7l10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
